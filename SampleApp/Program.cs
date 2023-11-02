@@ -1,6 +1,6 @@
-using LabDemo4.Data;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
+using SampleApp.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

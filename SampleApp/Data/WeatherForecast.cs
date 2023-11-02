@@ -1,4 +1,4 @@
-namespace LabDemo4.Data
+namespace SampleApp.Data
 {
     public class WeatherForecast
     {
